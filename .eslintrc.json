@@ -1,0 +1,7 @@
+{
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "rules": {
+    "rule-name-to-disable": "off",
+    "another-rule-to-disable": "off"
+  }
+}
